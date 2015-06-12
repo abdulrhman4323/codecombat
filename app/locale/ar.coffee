@@ -245,7 +245,7 @@ module.exports = nativeDescription: "العربية", englishDescription: "Arabi
 #    control_bar_join_game: "Join Game"
 #    reload: "Reload"
 #    reload_title: "Reload All Code?"
-#    reload_really: "Are you sure you want to reload this level back to the beginning?"
+#    reload_really: "هل أنت متأكد بالإعادة من البداية؟"
 #    reload_confirm: "Reload All"
 #    victory: "Victory"
 #    victory_title_prefix: ""
